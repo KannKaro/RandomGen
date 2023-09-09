@@ -1,0 +1,32 @@
+#Numerki {
+    text-align: center;
+    font-size: 60px;
+}
+
+#Nr1 {
+    width: 30%;
+    padding: 16px 20px;
+    margin: 8px;
+    font-size: 50px;
+}
+
+#Nr2 {
+    width: 30%;
+    padding: 16px 20px;
+    margin: 8px;
+    font-size: 50px;
+}
+#Zadanie {
+    display: flex;
+}
+
+#Button1 {
+    text-align: center;
+    padding: 10px 20px;
+    width: 10%;
+}
+
+#wynik {
+    text-align: center;
+    font-size: 60px;
+}
